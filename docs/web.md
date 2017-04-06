@@ -224,7 +224,7 @@ Use any JS library | Interacting with HTML content via touch
 ------|-----------------
 <img src='../images/threejstwo.gif'> | <img src='../images/phaserjs.gif'>
 
-Same as component usage, except there's no need for `style`, and you can't attache an `action` other than `"type": "$default"`.
+Same as component usage, except there's no need for `style`, and you can't attach an `action` other than `"type": "$default"`.
 
 * `type`: `"html"`
 * `text`: A self contained HTML text (`<html>...</html>`), which means everything from `script` tag to `style` tag.
